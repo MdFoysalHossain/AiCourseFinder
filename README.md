@@ -6,6 +6,11 @@ AI Course Finder is a modern web application that helps users discover the best 
 
 ---
 
+# Links:
+
+Live Link: https://aicoursefinder.netlify.app/
+---
+
 ## ✨ Features
 
 ### 🔍 Smart Course Discovery
@@ -58,7 +63,7 @@ Describe your issue in plain English and the AI will:
 
 # 📸 Preview
 
-![AI Course Finder Preview](<img width="1920" height="3110" alt="AiCourseFinder" src="https://github.com/user-attachments/assets/c47e1108-0781-471d-9b37-c39de2ee694b" />
+<img width="1920" height="3110" alt="AiCourseFinder" src="https://github.com/user-attachments/assets/c47e1108-0781-471d-9b37-c39de2ee694b" />
 
 ---
 
